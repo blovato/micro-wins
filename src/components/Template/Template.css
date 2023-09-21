@@ -1,0 +1,5 @@
+.Template {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 400px;
+}
